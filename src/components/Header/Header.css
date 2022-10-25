@@ -1,0 +1,43 @@
+.Header {
+  width: 109.7rem;
+}
+
+.Tab {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  top: 0.5rem;
+  right: 1.5rem;
+  z-index: 1;
+}
+
+.Tab > :hover {
+  cursor: pointer;
+}
+
+.Tab > h3 {
+  width: 75px;
+  height: 30px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
+
+  margin: 1rem;
+  padding-bottom: 0.2rem;
+}
+
+.Tab > img {
+  margin-left: 5rem;
+}
+
+.Home {
+  border-bottom: 1px solid white;
+}

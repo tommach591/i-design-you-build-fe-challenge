@@ -1,0 +1,60 @@
+.Bottom {
+  position: absolute;
+  top: 50.3425rem;
+  width: 109.5rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+  display: flex;
+}
+
+.Landing {
+  height: 10rem;
+  margin-left: 5rem;
+}
+
+.Comment {
+  color: white;
+  margin-left: 4rem;
+  margin-right: 4rem;
+  width: 50rem;
+}
+
+.Comment > h4 {
+  width: 427px;
+  height: 36px;
+  left: 694px;
+  top: 698px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.Comment > p {
+  width: 600px;
+  height: 93px;
+  left: 694px;
+  top: 752px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.Arrow {
+  position: relative;
+  left: 5rem;
+  top: -2rem;
+}
+
+.Arrow:hover {
+  cursor: pointer;
+}

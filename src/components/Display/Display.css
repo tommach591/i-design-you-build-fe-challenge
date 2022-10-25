@@ -1,0 +1,59 @@
+.Display {
+  position: absolute;
+  display: flex;
+  top: 12rem;
+  left: 20rem;
+}
+
+.Intro {
+  color: white;
+  z-index: 1;
+}
+
+.Intro > h1 {
+  width: 393px;
+  height: 158px;
+  left: 287px;
+  top: 211px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 79px;
+
+  color: #ffffff;
+
+  margin: 1rem;
+}
+
+.Intro > p {
+  width: 524px;
+  height: 81px;
+  left: 287px;
+  top: 403px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+
+  color: rgba(255, 255, 255, 0.9);
+
+  margin: 1rem;
+}
+
+.Stairs {
+  position: absolute;
+  width: 80rem;
+  top: -15rem;
+  left: 20rem;
+}
+
+.Astro {
+  position: absolute;
+  width: 22rem;
+  top: -2.5rem;
+  left: 39.5rem;
+}

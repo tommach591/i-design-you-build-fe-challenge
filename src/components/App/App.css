@@ -1,0 +1,8 @@
+.App {
+  width: 99.9vw;
+  height: 99.75vh;
+  background: linear-gradient(289.6deg, #0c0c0c 0%, #2c4550 98.22%);
+  border: 1px solid white;
+  border-radius: 1%;
+  display: flex;
+}
