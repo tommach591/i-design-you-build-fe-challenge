@@ -8,7 +8,7 @@ function Main({ isMobile }) {
     <div className="Main">
       <Header isMobile={isMobile} />
       <Bottom isMobile={isMobile} />
-      <Display isMobile={isMobile} />
+      <Display />
     </div>
   );
 }

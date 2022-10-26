@@ -2,7 +2,7 @@ import "./Display.css";
 import Stairs from "../../utils/stairs.svg";
 import Astro from "../../utils/astro.svg";
 
-function Display({ isMobile }) {
+function Display() {
   return (
     <div className="Display">
       <div className="Intro">
