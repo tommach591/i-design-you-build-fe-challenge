@@ -10,17 +10,14 @@ function Bottom({ isMobile }) {
         <div className="Comment">
           <h4>Exploration</h4>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure
-            perspiciatis neque minus consequatur, accusamus itaque?
-          </p>
-        </div>
-        <div className="Comment">
-          <h4>Exploration</h4>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure
-            perspiciatis neque minus consequatur, accusamus itaque?
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Placerat id
+            potenti faucibus nec, rhoncus, vulputate
           </p>
           <img className="Arrow" src={Arrow} alt="Arrow" />
+        </div>
+        <div className="Comment">
+          <h4>Footprint</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur</p>
         </div>
       </div>
     </div>
